@@ -25,6 +25,7 @@ Plug 'vim-test/vim-test'
 Plug 'puremourning/vimspector'
 Plug 'liuchengxu/vista.vim'
 Plug 'iberianpig/tig-explorer.vim'
+Plug 'rbgrouleff/bclose.vim'
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 
 Plug 'lambdalisue/fern.vim'
